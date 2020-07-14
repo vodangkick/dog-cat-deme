@@ -2,7 +2,7 @@
   "name": "new-test-netlify",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vodangkick.github.io/resort-new/",
+  "homepage": "https://vodangkick.github.io/dog-cat-deme/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
