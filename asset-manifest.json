@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dog-cat-deme/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dog-cat-deme/static/js/main.6f9e9f82.chunk.js",
+    "main.js.map": "/dog-cat-deme/static/js/main.6f9e9f82.chunk.js.map",
+    "runtime-main.js": "/dog-cat-deme/static/js/runtime-main.c3912c57.js",
+    "runtime-main.js.map": "/dog-cat-deme/static/js/runtime-main.c3912c57.js.map",
+    "static/js/2.766addb6.chunk.js": "/dog-cat-deme/static/js/2.766addb6.chunk.js",
+    "static/js/2.766addb6.chunk.js.map": "/dog-cat-deme/static/js/2.766addb6.chunk.js.map",
+    "index.html": "/dog-cat-deme/index.html",
+    "precache-manifest.3592ac51a70709bdf51a9b6bfed25b71.js": "/dog-cat-deme/precache-manifest.3592ac51a70709bdf51a9b6bfed25b71.js",
+    "service-worker.js": "/dog-cat-deme/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dog-cat-deme/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.766addb6.chunk.js.LICENSE.txt": "/dog-cat-deme/static/js/2.766addb6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dog-cat-deme/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3912c57.js",
+    "static/js/2.766addb6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6f9e9f82.chunk.js"
+  ]
+}
